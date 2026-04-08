@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou Leandro José!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Olá, eu sou Leandro José!<img src="https://media.tenor.com/kbwkQq906a8AAAAi/sol-big-brain-meme.gif" width="60px">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=LeBron%20Tech&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 
 Desenvolvedor Full-Stack | UI/UX Designer | Especialista em Infraestrutura de TI
 
