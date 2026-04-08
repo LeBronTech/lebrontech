@@ -7,14 +7,19 @@ Desenvolvedor Frond-End | UI/UX Designer | Especialista em Infraestrutura de TI
 
 Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o design estratégico à viabilidade técnica e infraestrutura de redes.
 
-### 🚀 Sobre Mim
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+### 🚀 Sobre Mim 
+<p align="center">
+
+  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 - 📚 Pós-gradação em Sistemas para Internet.
 - 💡 Foco em criar ecossistemas digitais de alta performance e automação de processos.
 - 🛠️ Experiência prática em liderança e mentoria.
 
-### 🛠️ Tecnologias e Stacks
 
+
+### 🛠️ Tecnologias e Stacks
+<p align="center">
+  
 **Front-End & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -24,7 +29,28 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 **Design & Automação**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
+
+
 ### 📊 Estatísticas
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+<p align="center">
+  <a href="https://github.com/lebrontech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebrontech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lebrontech's GitHub Stats" />
+  </a>
+</p>
+
+## 🛠️ Linguages
+
+<p align="center">
+  <a href="https://github.com/lebrontech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lebrontech&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
