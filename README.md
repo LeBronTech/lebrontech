@@ -8,8 +8,8 @@ Desenvolvedor Frond-End | UI/UX Designer | Especialista em Infraestrutura de TI
 Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o design estratégico à viabilidade técnica e infraestrutura de redes.
 
 ### 🚀 Sobre Mim
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas (Conclusão 12/2025).
-- 📚 Pós-graduando em Sistemas para Internet (Conclusão 12/2028).
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- 📚 Pós-gradação em Sistemas para Internet.
 - 💡 Foco em criar ecossistemas digitais de alta performance e automação de processos.
 - 🛠️ Experiência prática em liderança e mentoria.
 
