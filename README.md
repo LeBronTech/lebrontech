@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=LeBron%20Tech&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 
-Desenvolvedor Full-Stack | UI/UX Designer | Especialista em Infraestrutura de TI
+Desenvolvedor Frond-End | UI/UX Designer | Especialista em Infraestrutura de TI
 
 Moro em Brasília, DF (Santa Maria). Sou um profissional entusiasta da tecnologia que une o design estratégico à viabilidade técnica e infraestrutura de redes.
 
