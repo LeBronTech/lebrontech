@@ -41,15 +41,6 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-908ae2?style=for-the-badge&logo=cloudera&logoColor=white)  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-d11f5d?style=for-the-badge&logo=adonisjs&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-16106b?style=for-the-badge&logo=n8n&logoColor=white)
 
-
-
-## 📊 Estatísticas
-
-  <a href="https://github.com/LeBronTech">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebrontech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lebrontech's GitHub Stats" />
-  </a>
-</p>
-
 ## 🛠️ Linguages
 
   <a href="https://github.com/LeBronTech">
@@ -57,7 +48,12 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
   </a>
 </p>
 
+## 📊 Estatísticas
 
+  <a href="https://github.com/LeBronTech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebrontech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lebrontech's GitHub Stats" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
