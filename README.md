@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lebrontech">
-    <img src="https://komarev.com/ghpvc/?username=lebrontech&label=%20views&color=221539&style=flat-square" alt="lebrontech's views" />
+    <img src="https://komarev.com/ghpvc/?username=lebrontech&label=%20views&color=141321&style=flat-square" alt="lebrontech's views" />
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f2d60=&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-+End+UI/UX+Designer;Especialista+em+TI+&+Infra+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=675784=&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-+End+UI/UX+Designer;Especialista+em+TI+&+Infra+:%29)](https://git.io/typing-svg) 
 
 Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o design estratégico à viabilidade técnica e infraestrutura de redes.
 
