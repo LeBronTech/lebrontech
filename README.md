@@ -16,7 +16,7 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 <p align="center">
 
   - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
-- 📚 Pós-gradação em Sistemas para Internet.
+- 📚 Pós-graduação em Sistemas para Internet.
 - 💡 Foco em criar ecossistemas digitais de alta performance e automação de processos.
 - 🛠️ Experiência prática em liderança e mentoria.
 
