@@ -42,14 +42,14 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 
 ## 📊 Estatísticas
 
-  <a href="https://github.com/lebrontech">
+  <a href="https://github.com/LeBronTech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebrontech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lebrontech's GitHub Stats" />
   </a>
 </p>
 
 ## 🛠️ Linguages
 
-  <a href="https://github.com/lebrontech">
+  <a href="https://github.com/LeBronTech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lebrontech&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
