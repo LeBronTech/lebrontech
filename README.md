@@ -2,6 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=LeBron%20Tech&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=lebrontech">
+    <img src="https://komarev.com/ghpvc/?username=lebrontech&label=%20views&color=00FFFF&style=flat-square" alt="lebrontech's views" />
+  </a>
+</p>
 
 Desenvolvedor Frond-End | UI/UX Designer | Especialista em Infraestrutura de TI
 
