@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Desenvolvedor Frond-End | UI/UX Designer | Especialista em Infraestrutura de TI
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f2d60=&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-+End+UI/UX+Designer;Especialista+em+TI+&+Infra+:%29)](https://git.io/typing-svg) 
 
 Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o design estratégico à viabilidade técnica e infraestrutura de redes.
 
@@ -40,11 +40,8 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 
 
 
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-<p align="center">
+## 📊 Estatísticas
+
   <a href="https://github.com/lebrontech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebrontech&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lebrontech's GitHub Stats" />
   </a>
@@ -52,7 +49,6 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 
 ## 🛠️ Linguages
 
-<p align="center">
   <a href="https://github.com/lebrontech">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lebrontech&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
@@ -72,7 +68,6 @@ Moro em Brasília, DF. Sou um profissional entusiasta da tecnologia que une o de
 <p align="center"><a href="https://linkedin.com/in/Leandrojosedev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/5561984836034" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:lebronempresas@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://lebrondevdesignerportfolio.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
